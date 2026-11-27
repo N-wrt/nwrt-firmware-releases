@@ -1,6 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "devices": {},
-  "resources": {}
+  "devices": {
+    "jdcloud,ax1800-pro": [
+      {
+        "version": "2026.11.27.1",
+        "revision": "gb67645787002",
+        "tag": "v2026.11.27.1",
+        "file": "Nwrt-2026-11-27-ipq60xx-generic-jdc_ax1800pro-squashfs-sysupgrade.bin",
+        "size": 61021069,
+        "sha256": "bd1958c7ecd4cb1dabab417c816e859a5e969fba61c3e600036008e196db6746"
+      }
+    ]
+  },
+  "resources": {
+    "d2293a85435c3ab375d79c00eeb6b92862f9864b2b80081a954ba4eb86e4ee36": {
+      "tag": "v2026.11.27.1",
+      "file": "asuswrt-www_0.1-186.tar.gz",
+      "size": 11535829
+    }
+  }
 }
