@@ -1,5 +1,6 @@
 {
   "schema": 1,
   "channel": "stable",
-  "devices": {}
+  "devices": {},
+  "resources": {}
 }

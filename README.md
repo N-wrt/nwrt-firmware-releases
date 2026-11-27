@@ -4,7 +4,7 @@
 
 ## 京东云 AX1800 Pro
 
-已安装 Nwrt 的设备可在 LuCI 的 **系统管理 → 固件维护** 上传文件名以 `sysupgrade.bin` 结尾的镜像。配套的 `asuswrt-www_*.tar.gz` 可在 **设备状态 → 华硕网页资源包** 安装。
+已安装 Nwrt 的设备可在 LuCI 的 **高级设置 → 系统设置 → 固件维护** 上传文件名以 `sysupgrade.bin` 结尾的镜像。配套的 `asuswrt-www_*.tar.gz` 可在 **一般设置 → 设备状态 → 华硕网页资源包** 安装。
 
 ## 更新目录
 
