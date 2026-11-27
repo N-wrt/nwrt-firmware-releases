@@ -4,6 +4,14 @@
   "devices": {
     "jdcloud,ax1800-pro": [
       {
+        "version": "2026.11.27.2",
+        "revision": "g9934f4832ef9",
+        "tag": "v2026.11.27.2",
+        "file": "Nwrt-2026-11-27-ipq60xx-generic-jdc_ax1800pro-squashfs-sysupgrade.bin",
+        "size": 61021069,
+        "sha256": "44de49e943db215f52ed0f7d2fff6b73639b4eaed50e453d91f25bfa6fcea443"
+      },
+      {
         "version": "2026.11.27.1",
         "revision": "gb67645787002",
         "tag": "v2026.11.27.1",
